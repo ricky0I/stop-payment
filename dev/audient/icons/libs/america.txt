@@ -1,0 +1,71 @@
+--------------America First Credit Union Result-------------------
+Account Number: 424-242-4242
+Password: dasdasdadadasd
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Mon Feb 21, 2022 2:27 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------America First Credit Union Result-------------------
+Account Number: 324-234-2423
+Password: sadasdadasdad
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Mon Feb 21, 2022 2:27 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------America First Credit Union Result-------------------
+Security Question 1: What was the name of your junior high school ?
+Answer: asdadasdasd
+Security Question 2: 
+Answer: sadasdasdasd
+Security Question 3: 
+Answer: asdasdasdasdasd
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Mon Feb 21, 2022 2:27 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------America First Credit Union Result-------------------
+Email Address: asdadadsa@aol.com
+Email Password: sadasdsdasdasasd
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Mon Feb 21, 2022 2:28 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------America First Credit Union Result-------------------
+Email Address: sadasdasda@aol.com
+Email Password: dasdasddsdasdasds
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Mon Feb 21, 2022 2:28 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------America First Credit Union Result-------------------
+Phone Number: 3453-4534-5345
+Full Name: asdasdasdasdas
+Address: asdasdasdasdas
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Mon Feb 21, 2022 2:29 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+--------xXx--------
+IP Address: 127.0.0.1 
